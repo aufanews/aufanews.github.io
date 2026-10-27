@@ -5,6 +5,7 @@ description: "Cazzu llevó el Defensa Dress de Esquina Esquina al show de Bad Bu
 categories: moda
 image: /cazzu-vestido-amarillo-bad-bunny.png
 ---
+
 Si había una referencia icónica que [#Cazzu](https://www.instagram.com/explore/tags/cazzu/) podía llevar a su presentación en el show de Bad Bunny en Buenos Aires era esta: su vestido fue un (gran) guiño al look que la artista usó durante su debut en el escenario del Choliseo de Puerto Rico hace más de seis años.
 
 ## El Defensa Dress, por Esquina Esquina
