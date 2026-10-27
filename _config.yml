@@ -1,0 +1,6 @@
+title: Mi blog de SEO
+description: Notas para practicar SEO y GEO
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
