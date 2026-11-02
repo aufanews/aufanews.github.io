@@ -27,4 +27,4 @@ Este año, estos fueron mis favoritos:
 
 ![Alex Consani como los dedos de Mini Espías](/Alex_Consani_Disfraz_Dedo.jpeg)
 
-## *Imágenes: Instagram*
+*Imágenes: Instagram*
