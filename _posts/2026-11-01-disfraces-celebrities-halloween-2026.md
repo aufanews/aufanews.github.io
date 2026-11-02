@@ -11,6 +11,8 @@ Si hay una festividad para la cual los famosos lo dan todo, es Halloween. Y siem
 
 Este año, estos fueron mis favoritos:
 
+Zendaya como Halle Berry
+
 ![Zendaya como Halle Berry](/Zendaya_Disfraz_Halle_Berry.jpeg)
 
 ![Irina Shayk como demonia](/Irina_Shayk_Disfraz_Demonia.jpeg)
