@@ -11,20 +11,20 @@ Si hay una festividad para la cual los famosos lo dan todo, es Halloween. Y siem
 
 Este año, estos fueron mis favoritos:
 
-**Zendaya como Halle Berry**
+## **Zendaya como Halle Berry**
 
 ![Zendaya como Halle Berry](/Zendaya_Disfraz_Halle_Berry.jpeg)
 
-**Irina Shayk como demonia**
+## **Irina Shayk como demonia**
 
 ![Irina Shayk como demonia](/Irina_Shayk_Disfraz_Demonia.jpeg)
 
-**Paris Hilton como Rapunzel**
+## **Paris Hilton como Rapunzel**
 
 ![Paris Hilton como Rapunzel](/Paris_Hilton_Disfraz_Rapunzel.jpeg)
 
-**Alex Consani como dedo de Mini Espías**
+## **Alex Consani como dedo de Mini Espías**
 
 ![Alex Consani como los dedos de Mini Espías](/Alex_Consani_Disfraz_Dedo.jpeg)
 
-*Imágenes: Instagram*
+## *Imágenes: Instagram*
